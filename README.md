@@ -1,1 +1,1 @@
-![alt text](FYP APP.png)
+![alt text](./FYP APP.png)
